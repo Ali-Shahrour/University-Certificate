@@ -1,0 +1,67 @@
+body {
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    float: left;
+    width: 300px;
+    border-radius: 50px;
+}
+#Head {
+    text-align:center;
+    display: inline-block;
+    margin-left: 320px;
+}
+#Courses {
+    text-align: center;
+    margin-bottom: 150px;
+}
+#Hobbies {
+    text-align: center;
+    margin-bottom: 150px;
+}
+#Schedule {
+    text-align: center;
+}
+#student {
+    font-family: 'MonteCarlo';
+    font-size: 90px;
+}
+table {
+    border-spacing: 20px ;
+    margin-left: auto;
+    margin-right: auto;
+}
+li {
+    margin-bottom: 10px;
+
+}
+h1 {
+    font-size: 70px;
+    margin-bottom: 0px;
+}
+h2 {
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 60px;
+}
+p {
+    font-size: 20px;
+}
+#Wrapper {
+    margin-top: 100px;
+}
+ol,ul {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h4 {
+    font-size: 30px;
+}
+footer {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 20px;
+}
